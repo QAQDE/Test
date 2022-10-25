@@ -1,7 +1,7 @@
 ---
 title: Edward Cheong
-role: Thinker
-avatar_filename: https://cdn.britannica.com/53/180553-050-FE609C89/Thinker-Auguste-Rodin-Museum-Paris-1904.jpg
+role: An thinker
+avatar_filename: thinker-auguste-rodin-museum-paris-1904.webp
 bio: ""
 social:
   - icon: envelope
